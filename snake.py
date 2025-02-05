@@ -158,3 +158,6 @@ while running:
 
 #End the game
 pygame.quit()
+
+# adding new changes
+#new changes
